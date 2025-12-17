@@ -2,12 +2,6 @@
 
 ### Neurosurgeon-Scientist | Cancer AI Researcher | Author | Investor
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prazg&label=Profile views&color=0e75b6&style=flat" alt="prazg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prazg" alt="prazg" /></a> </p>
-
-<p align="left"> <a href="https://X.com/prazNeuro" target="blank"><img src="https://img.shields.io/twitter/follow/prazNeuro?logo=twitter&style=for-the-badge" alt="prazNeuro" /></a> </p>
-
 - 🔭 I'm currently working on **Radiogenomic AI Framework for Brain Cancer**
 
 - 🌱 I'm currently learning **VAEs, LLM, RAG**
