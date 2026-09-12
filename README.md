@@ -34,7 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prazg&show_icons=true&locale=en&layout=compact" alt="prazg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prazg&show_icons=true&locale=en" alt="prazg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prazg&" alt="prazg" /></p>
 
