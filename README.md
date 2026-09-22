@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **VAEs, LLM, RAG**
 
-- 👯 I'm looking to collaborate on **Brain Cancer Open access dataset**
+- 👯 I'm looking to collaborate on **Brain Cancer Open access dataset and Computational Radiogenomics in Cancer**
 
 - 💬 Ask me about **Brain Cancer Imaging; Radiomics; Radiogenomics**
 
