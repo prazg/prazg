@@ -19,7 +19,7 @@
 - 📝 I regularly write articles on **[https://linktr.ee/prazneuro](https://linktr.ee/prazneuro)**
 
 - 📄 Know about my experiences **[https://kclpure.kcl.ac.uk/ws/portalfiles/portal/cv/b47f89d3-9947-4de3-957f-7c086e01768b?locale=en_GB](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/cv/b47f89d3-9947-4de3-957f-7c086e01768b?locale=en_GB)**
-- 
+  
 - 🇳🇵 I work on Nepal-related projects independently. See **Nepal Cryosphere Inventory, Nepal Quake Watch, Nepal TRAYA  and Nepal Heritage Catalogue** projects for details.
 
 <h3 align="left">Connect with me:</h3>
