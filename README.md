@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Radiogenomic AI Framework for Brain Cancer**
 
-- 🌱 I'm currently learning **VAEs, LLM, RAG**
+- 🌱 I'm currently learning **VAEs, VLMs, FMs**
 
 - 👯 I'm looking to collaborate on **Brain Cancer Open access dataset and Computational Radiogenomics in Cancer**
 
