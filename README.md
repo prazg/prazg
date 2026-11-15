@@ -4,13 +4,13 @@
 
 - 🔭 I'm currently working on **Radiogenomic AI Framework for Brain Cancer**
 
-- 🌱 I'm currently learning **VAEs, VLMs, FMs**
+- 🌱 I'm currently exploring **VAEs, VLMs, FMs**
 
 - 👯 I'm looking to collaborate on **Brain Cancer Open access dataset and Computational Radiogenomics in Cancer**
 
 - 💬 Ask me about **Brain Cancer Imaging; Radiomics; Radiogenomics**
 
-- 📫 How to reach me **prajwal.1.ghimire@kcl.ac.uk**
+- 📫 How to reach me **prajwal.ghimire@crick.ac.uk**
 
 - ⚡ Fun fact **I am ambidextrous and multitasking is my forte.**
 
